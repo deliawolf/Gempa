@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html class='uk-height-1-1'>
     <head>
-      <title>Title</title>
+      <title>Kelompok 6</title>
       <meta charset="utf-8">
       <meta name="viewport" content="initial-scale=1">
       <link rel="stylesheet" href="css/uikit.min.css" />
